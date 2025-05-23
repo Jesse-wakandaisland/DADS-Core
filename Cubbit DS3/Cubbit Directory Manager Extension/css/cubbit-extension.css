@@ -1,0 +1,33 @@
+/* Cubbit Directory Manager Extension Styles */
+/* Permission styles */
+.permission-public {
+    color: #46b450;
+    font-weight: bold;
+}
+
+.permission-authenticated {
+    color: #ffb900;
+    font-weight: bold;
+}
+
+.permission-private {
+    color: #dc3232;
+    font-weight: bold;
+}
+
+/* Permissions panel */
+.recursive-option {
+    background: #f9f9f9;
+    padding: 10px;
+    border-radius: 3px;
+    border-left: 4px solid #00a0d2;
+    margin-bottom: 10px;
+}
+
+.recursive-option .description {
+    color: #666;
+    margin-top: 5px;
+    margin-bottom: 0;
+    margin-left: 20px;
+    font-style: italic;
+}
